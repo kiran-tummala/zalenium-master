@@ -5,7 +5,7 @@ entries:
     created: "2020-06-04T21:07:52.910276+10:00"
     description: Chart for selenium grid
     digest: 1e97d4d2a12e8a384b725047a55de2f92dfc3faa9b16e1a86fedb33a1e6cc187
-    home: https://github.com/zalando/zalenium
+    home: https://github.com/kiran-tummala/zalenium-master
     keywords:
     - qa
     maintainers:
