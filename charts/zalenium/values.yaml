@@ -183,7 +183,7 @@ persistence:
     folder: ""
 
 ingress:
-  enabled: false
+  enabled: true
   tls: false
   # secretName: my-tls-cert # only needed if tls above is true
   hostname: zalenium.foobar.com
